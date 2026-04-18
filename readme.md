@@ -11,9 +11,10 @@
 
 ## Important
 - Use my projects AT YOUR OWN RISK!
-- Project sends Mouse and Keyboard Inputs
 
 ## Current Projects
-- SzymsX AIO AutoClicker - Automatic Mouse and Key clicking tool
+- SzymsX AIO AutoClicker - Automatic Mouse and Key clicking tool, sends Mouse and Keyboard Inputs
 
+## Update
+- 18.04.2026
 MORE CHANGES WILL BE ADDED
