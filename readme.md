@@ -1,5 +1,4 @@
 ## SzymsX AIO AutoClicker v1.0.1
-Automatic Mouse and Key clicking tool
 - Reworek Minimize feature
 
 ## Info
@@ -10,8 +9,11 @@ Automatic Mouse and Key clicking tool
 - Windows 10/11
 - AutoHotkey v2.0
 
-## Usage!
+## Important
 - Use my projects AT YOUR OWN RISK!
 - Project sends Mouse and Keyboard Inputs
+
+## Current Projects
+- SzymsX AIO AutoClicker - Automatic Mouse and Key clicking tool
 
 MORE CHANGES WILL BE ADDED
