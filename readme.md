@@ -1,6 +1,6 @@
 ## SzymsX AIO AutoClicker v1.0.1
-- Automatic Mouse and Key clicking tool
-- AIO AutoClicker is my First Project used to learn and improve my scripting skill
+Automatic Mouse and Key clicking tool
+- Reworek Minimize feature
 
 ## Info
 - dc ```szymsx```
