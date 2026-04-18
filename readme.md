@@ -3,7 +3,7 @@
 
 ## Info
 - dc ```szymsx```
-- I allow for sending my files WHILE keeping my credits as the owner 
+- I allow for sending my files WHILE keeping MY credits as the owner 
 
 ## Requirements
 - Windows 10/11
