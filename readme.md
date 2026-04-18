@@ -1,5 +1,5 @@
 ## SzymsX AIO AutoClicker v1.0.1
-- Reworek Minimize feature
+- Reworked Minimize feature
 
 ## Info
 - dc ```szymsx```
