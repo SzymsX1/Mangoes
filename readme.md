@@ -1,5 +1,5 @@
 ## SzymsX AIO AutoClicker v1.0.5
-- Automatic Mouse Buttons and Keys clicking App
+- Automatic Mouse and Key clicking tool
 - AIO AutoClicker is my First Project used to learn and improve my scripting skill
 
 ## Info
