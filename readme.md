@@ -1,6 +1,6 @@
 ## SzymsX AIO AutoClicker
-Automatic Mouse Buttons and Keys clicking App
-AIO AutoClicker is my First Project used to learn and improve my scripting skill
+- Automatic Mouse Buttons and Keys clicking App
+- AIO AutoClicker is my First Project used to learn and improve my scripting skill
 
 ## Info
 - dc ```szymsx```
