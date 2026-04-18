@@ -1,4 +1,4 @@
-## SzymsX AIO AutoClicker v1.0.5
+## SzymsX AIO AutoClicker v1.0.1
 - Automatic Mouse and Key clicking tool
 - AIO AutoClicker is my First Project used to learn and improve my scripting skill
 
