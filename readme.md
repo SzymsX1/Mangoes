@@ -4,7 +4,7 @@ AIO AutoClicker is my First Project used to learn and improve my scripting skill
 
 ## Info
 dc ```szymsx```
-I allow for my 
+I allow for sending my files WHILE keeping my credits as the owner 
 
 ## Requirements
 - Windows 10/11
